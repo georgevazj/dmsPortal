@@ -6,7 +6,7 @@ angular.module("dms",["ngRoute","ngResource"])
   .config(function($routeProvider){
     $routeProvider
       .when("/", {
-        controller: "ESController",
+        controller: "MainController",
         templateUrl: "templates/home.html"
       })
       .when("/es", {
