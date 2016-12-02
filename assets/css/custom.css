@@ -1,0 +1,11 @@
+.izquierda, .derecha {
+    padding-top: 100px;
+}
+
+.derecha {
+    padding-bottom: 100px;
+}
+
+#logo {
+    width: 50%; max-width: 300px;
+}
